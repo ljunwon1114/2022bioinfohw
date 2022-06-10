@@ -11,7 +11,7 @@ Introduction 작성
 
 2주차
 
-1) error rate가 높은 uni seq 개수 확인
+1) UCSC genome browser 표현
 
 2) genome browser로 표현
 
@@ -19,6 +19,6 @@ Introduction 작성
 
 3주차 
 
-mmu-let-7d locus, mmu-let-7f-1 locus 분석 + 다른 locus 확인
+mmu-let-7d locus, mmu-let-7f-1 locus 분석 + 다른 locus 확인 -> x (failed)
 
 발표 자료 정리
